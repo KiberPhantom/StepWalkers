@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1679567643,
+	"version": 1681904376,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -48,6 +48,9 @@
 		"images/particles_red.png",
 		"images/particles_yellow.png",
 		"images/particles_blue.png",
+		"images/button_start-sheet0.png",
+		"images/button_restart-sheet0.png",
+		"images/controller-sheet0.png",
 		"media/error.m4a",
 		"media/error.ogg",
 		"media/click_button.m4a",
